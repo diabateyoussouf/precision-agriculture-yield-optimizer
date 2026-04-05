@@ -36,5 +36,5 @@ Si vous souhaitez exécuter ce projet sur votre propre machine, suivez ces étap
 
 ### 1. Cloner le dépôt
 ```bash
-git clone [https://github.com/VOTRE_NOM_UTILISATEUR/VOTRE_DEPOT.git](https://github.com/VOTRE_NOM_UTILISATEUR/VOTRE_DEPOT.git)
-cd VOTRE_DEPOT
+git clone https://github.com/VOTRE_NOM_UTILISATEUR/VOTRE_DEPOT.git](https://github.com/VOTRE_NOM_UTILISATEUR/VOTRE_DEPOT.git)](https://github.com/diabateyoussouf/precision-agriculture-yield-optimizer.git
+
